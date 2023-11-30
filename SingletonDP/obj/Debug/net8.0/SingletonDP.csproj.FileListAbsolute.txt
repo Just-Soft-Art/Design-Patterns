@@ -1,0 +1,14 @@
+C:\Users\Admin\source\repos\Design Patterns\SingletonDP\bin\Debug\net8.0\SingletonDP.exe
+C:\Users\Admin\source\repos\Design Patterns\SingletonDP\bin\Debug\net8.0\SingletonDP.deps.json
+C:\Users\Admin\source\repos\Design Patterns\SingletonDP\bin\Debug\net8.0\SingletonDP.runtimeconfig.json
+C:\Users\Admin\source\repos\Design Patterns\SingletonDP\bin\Debug\net8.0\SingletonDP.dll
+C:\Users\Admin\source\repos\Design Patterns\SingletonDP\bin\Debug\net8.0\SingletonDP.pdb
+C:\Users\Admin\source\repos\Design Patterns\SingletonDP\obj\Debug\net8.0\SingletonDP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\Design Patterns\SingletonDP\obj\Debug\net8.0\SingletonDP.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\Design Patterns\SingletonDP\obj\Debug\net8.0\SingletonDP.AssemblyInfo.cs
+C:\Users\Admin\source\repos\Design Patterns\SingletonDP\obj\Debug\net8.0\SingletonDP.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Design Patterns\SingletonDP\obj\Debug\net8.0\SingletonDP.dll
+C:\Users\Admin\source\repos\Design Patterns\SingletonDP\obj\Debug\net8.0\refint\SingletonDP.dll
+C:\Users\Admin\source\repos\Design Patterns\SingletonDP\obj\Debug\net8.0\SingletonDP.pdb
+C:\Users\Admin\source\repos\Design Patterns\SingletonDP\obj\Debug\net8.0\SingletonDP.genruntimeconfig.cache
+C:\Users\Admin\source\repos\Design Patterns\SingletonDP\obj\Debug\net8.0\ref\SingletonDP.dll

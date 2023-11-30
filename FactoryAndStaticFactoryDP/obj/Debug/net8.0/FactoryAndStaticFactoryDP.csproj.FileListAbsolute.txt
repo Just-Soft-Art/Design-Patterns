@@ -1,0 +1,14 @@
+C:\Users\Admin\source\repos\Design Patterns\FactoryAndStaticFactoryDP\bin\Debug\net8.0\FactoryAndStaticFactoryDP.exe
+C:\Users\Admin\source\repos\Design Patterns\FactoryAndStaticFactoryDP\bin\Debug\net8.0\FactoryAndStaticFactoryDP.deps.json
+C:\Users\Admin\source\repos\Design Patterns\FactoryAndStaticFactoryDP\bin\Debug\net8.0\FactoryAndStaticFactoryDP.runtimeconfig.json
+C:\Users\Admin\source\repos\Design Patterns\FactoryAndStaticFactoryDP\bin\Debug\net8.0\FactoryAndStaticFactoryDP.dll
+C:\Users\Admin\source\repos\Design Patterns\FactoryAndStaticFactoryDP\bin\Debug\net8.0\FactoryAndStaticFactoryDP.pdb
+C:\Users\Admin\source\repos\Design Patterns\FactoryAndStaticFactoryDP\obj\Debug\net8.0\FactoryAndStaticFactoryDP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\Design Patterns\FactoryAndStaticFactoryDP\obj\Debug\net8.0\FactoryAndStaticFactoryDP.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\Design Patterns\FactoryAndStaticFactoryDP\obj\Debug\net8.0\FactoryAndStaticFactoryDP.AssemblyInfo.cs
+C:\Users\Admin\source\repos\Design Patterns\FactoryAndStaticFactoryDP\obj\Debug\net8.0\FactoryAndStaticFactoryDP.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Design Patterns\FactoryAndStaticFactoryDP\obj\Debug\net8.0\FactoryAndStaticFactoryDP.dll
+C:\Users\Admin\source\repos\Design Patterns\FactoryAndStaticFactoryDP\obj\Debug\net8.0\refint\FactoryAndStaticFactoryDP.dll
+C:\Users\Admin\source\repos\Design Patterns\FactoryAndStaticFactoryDP\obj\Debug\net8.0\FactoryAndStaticFactoryDP.pdb
+C:\Users\Admin\source\repos\Design Patterns\FactoryAndStaticFactoryDP\obj\Debug\net8.0\FactoryAndStaticFactoryDP.genruntimeconfig.cache
+C:\Users\Admin\source\repos\Design Patterns\FactoryAndStaticFactoryDP\obj\Debug\net8.0\ref\FactoryAndStaticFactoryDP.dll

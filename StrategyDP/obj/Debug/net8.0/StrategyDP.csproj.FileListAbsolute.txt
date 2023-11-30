@@ -1,0 +1,14 @@
+C:\Users\Admin\source\repos\Design Patterns\StrategyDP\bin\Debug\net8.0\StrategyDP.exe
+C:\Users\Admin\source\repos\Design Patterns\StrategyDP\bin\Debug\net8.0\StrategyDP.deps.json
+C:\Users\Admin\source\repos\Design Patterns\StrategyDP\bin\Debug\net8.0\StrategyDP.runtimeconfig.json
+C:\Users\Admin\source\repos\Design Patterns\StrategyDP\bin\Debug\net8.0\StrategyDP.dll
+C:\Users\Admin\source\repos\Design Patterns\StrategyDP\bin\Debug\net8.0\StrategyDP.pdb
+C:\Users\Admin\source\repos\Design Patterns\StrategyDP\obj\Debug\net8.0\StrategyDP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\Design Patterns\StrategyDP\obj\Debug\net8.0\StrategyDP.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\Design Patterns\StrategyDP\obj\Debug\net8.0\StrategyDP.AssemblyInfo.cs
+C:\Users\Admin\source\repos\Design Patterns\StrategyDP\obj\Debug\net8.0\StrategyDP.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Design Patterns\StrategyDP\obj\Debug\net8.0\StrategyDP.dll
+C:\Users\Admin\source\repos\Design Patterns\StrategyDP\obj\Debug\net8.0\refint\StrategyDP.dll
+C:\Users\Admin\source\repos\Design Patterns\StrategyDP\obj\Debug\net8.0\StrategyDP.pdb
+C:\Users\Admin\source\repos\Design Patterns\StrategyDP\obj\Debug\net8.0\StrategyDP.genruntimeconfig.cache
+C:\Users\Admin\source\repos\Design Patterns\StrategyDP\obj\Debug\net8.0\ref\StrategyDP.dll

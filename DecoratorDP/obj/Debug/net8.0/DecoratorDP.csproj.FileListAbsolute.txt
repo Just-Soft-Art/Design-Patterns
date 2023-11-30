@@ -1,0 +1,14 @@
+C:\Users\Admin\source\repos\Design Patterns\DecoratorDP\bin\Debug\net8.0\DecoratorDP.exe
+C:\Users\Admin\source\repos\Design Patterns\DecoratorDP\bin\Debug\net8.0\DecoratorDP.deps.json
+C:\Users\Admin\source\repos\Design Patterns\DecoratorDP\bin\Debug\net8.0\DecoratorDP.runtimeconfig.json
+C:\Users\Admin\source\repos\Design Patterns\DecoratorDP\bin\Debug\net8.0\DecoratorDP.dll
+C:\Users\Admin\source\repos\Design Patterns\DecoratorDP\bin\Debug\net8.0\DecoratorDP.pdb
+C:\Users\Admin\source\repos\Design Patterns\DecoratorDP\obj\Debug\net8.0\DecoratorDP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\Design Patterns\DecoratorDP\obj\Debug\net8.0\DecoratorDP.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\Design Patterns\DecoratorDP\obj\Debug\net8.0\DecoratorDP.AssemblyInfo.cs
+C:\Users\Admin\source\repos\Design Patterns\DecoratorDP\obj\Debug\net8.0\DecoratorDP.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Design Patterns\DecoratorDP\obj\Debug\net8.0\DecoratorDP.dll
+C:\Users\Admin\source\repos\Design Patterns\DecoratorDP\obj\Debug\net8.0\refint\DecoratorDP.dll
+C:\Users\Admin\source\repos\Design Patterns\DecoratorDP\obj\Debug\net8.0\DecoratorDP.pdb
+C:\Users\Admin\source\repos\Design Patterns\DecoratorDP\obj\Debug\net8.0\DecoratorDP.genruntimeconfig.cache
+C:\Users\Admin\source\repos\Design Patterns\DecoratorDP\obj\Debug\net8.0\ref\DecoratorDP.dll
