@@ -12,3 +12,4 @@ C:\Users\Admin\source\repos\Design Patterns\DecoratorDP\obj\Debug\net8.0\refint\
 C:\Users\Admin\source\repos\Design Patterns\DecoratorDP\obj\Debug\net8.0\DecoratorDP.pdb
 C:\Users\Admin\source\repos\Design Patterns\DecoratorDP\obj\Debug\net8.0\DecoratorDP.genruntimeconfig.cache
 C:\Users\Admin\source\repos\Design Patterns\DecoratorDP\obj\Debug\net8.0\ref\DecoratorDP.dll
+C:\Users\Admin\source\repos\Design Patterns\DecoratorDP\obj\Debug\net8.0\DecoratorDP.sourcelink.json

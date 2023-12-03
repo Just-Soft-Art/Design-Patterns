@@ -12,3 +12,4 @@ C:\Users\Admin\source\repos\Design Patterns\StrategyDP\obj\Debug\net8.0\refint\S
 C:\Users\Admin\source\repos\Design Patterns\StrategyDP\obj\Debug\net8.0\StrategyDP.pdb
 C:\Users\Admin\source\repos\Design Patterns\StrategyDP\obj\Debug\net8.0\StrategyDP.genruntimeconfig.cache
 C:\Users\Admin\source\repos\Design Patterns\StrategyDP\obj\Debug\net8.0\ref\StrategyDP.dll
+C:\Users\Admin\source\repos\Design Patterns\StrategyDP\obj\Debug\net8.0\StrategyDP.sourcelink.json

@@ -12,3 +12,4 @@ C:\Users\Admin\source\repos\Design Patterns\FactoryAndStaticFactoryDP\obj\Debug\
 C:\Users\Admin\source\repos\Design Patterns\FactoryAndStaticFactoryDP\obj\Debug\net8.0\FactoryAndStaticFactoryDP.pdb
 C:\Users\Admin\source\repos\Design Patterns\FactoryAndStaticFactoryDP\obj\Debug\net8.0\FactoryAndStaticFactoryDP.genruntimeconfig.cache
 C:\Users\Admin\source\repos\Design Patterns\FactoryAndStaticFactoryDP\obj\Debug\net8.0\ref\FactoryAndStaticFactoryDP.dll
+C:\Users\Admin\source\repos\Design Patterns\FactoryAndStaticFactoryDP\obj\Debug\net8.0\FactoryAndStaticFactoryDP.sourcelink.json

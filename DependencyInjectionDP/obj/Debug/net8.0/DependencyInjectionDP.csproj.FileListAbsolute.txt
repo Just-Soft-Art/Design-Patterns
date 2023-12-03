@@ -1,0 +1,15 @@
+C:\Users\Admin\source\repos\Design Patterns\DependencyInjectionDP\bin\Debug\net8.0\DependencyInjectionDP.exe
+C:\Users\Admin\source\repos\Design Patterns\DependencyInjectionDP\bin\Debug\net8.0\DependencyInjectionDP.deps.json
+C:\Users\Admin\source\repos\Design Patterns\DependencyInjectionDP\bin\Debug\net8.0\DependencyInjectionDP.runtimeconfig.json
+C:\Users\Admin\source\repos\Design Patterns\DependencyInjectionDP\bin\Debug\net8.0\DependencyInjectionDP.dll
+C:\Users\Admin\source\repos\Design Patterns\DependencyInjectionDP\bin\Debug\net8.0\DependencyInjectionDP.pdb
+C:\Users\Admin\source\repos\Design Patterns\DependencyInjectionDP\obj\Debug\net8.0\DependencyInjectionDP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\Design Patterns\DependencyInjectionDP\obj\Debug\net8.0\DependencyInjectionDP.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\Design Patterns\DependencyInjectionDP\obj\Debug\net8.0\DependencyInjectionDP.AssemblyInfo.cs
+C:\Users\Admin\source\repos\Design Patterns\DependencyInjectionDP\obj\Debug\net8.0\DependencyInjectionDP.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Design Patterns\DependencyInjectionDP\obj\Debug\net8.0\DependencyInjectionDP.sourcelink.json
+C:\Users\Admin\source\repos\Design Patterns\DependencyInjectionDP\obj\Debug\net8.0\DependencyInjectionDP.dll
+C:\Users\Admin\source\repos\Design Patterns\DependencyInjectionDP\obj\Debug\net8.0\refint\DependencyInjectionDP.dll
+C:\Users\Admin\source\repos\Design Patterns\DependencyInjectionDP\obj\Debug\net8.0\DependencyInjectionDP.pdb
+C:\Users\Admin\source\repos\Design Patterns\DependencyInjectionDP\obj\Debug\net8.0\DependencyInjectionDP.genruntimeconfig.cache
+C:\Users\Admin\source\repos\Design Patterns\DependencyInjectionDP\obj\Debug\net8.0\ref\DependencyInjectionDP.dll

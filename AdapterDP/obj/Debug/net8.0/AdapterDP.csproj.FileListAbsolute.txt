@@ -1,0 +1,15 @@
+C:\Users\Admin\source\repos\Design Patterns\AdapterDP\bin\Debug\net8.0\AdapterDP.exe
+C:\Users\Admin\source\repos\Design Patterns\AdapterDP\bin\Debug\net8.0\AdapterDP.deps.json
+C:\Users\Admin\source\repos\Design Patterns\AdapterDP\bin\Debug\net8.0\AdapterDP.runtimeconfig.json
+C:\Users\Admin\source\repos\Design Patterns\AdapterDP\bin\Debug\net8.0\AdapterDP.dll
+C:\Users\Admin\source\repos\Design Patterns\AdapterDP\bin\Debug\net8.0\AdapterDP.pdb
+C:\Users\Admin\source\repos\Design Patterns\AdapterDP\obj\Debug\net8.0\AdapterDP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\Design Patterns\AdapterDP\obj\Debug\net8.0\AdapterDP.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\Design Patterns\AdapterDP\obj\Debug\net8.0\AdapterDP.AssemblyInfo.cs
+C:\Users\Admin\source\repos\Design Patterns\AdapterDP\obj\Debug\net8.0\AdapterDP.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Design Patterns\AdapterDP\obj\Debug\net8.0\AdapterDP.sourcelink.json
+C:\Users\Admin\source\repos\Design Patterns\AdapterDP\obj\Debug\net8.0\AdapterDP.dll
+C:\Users\Admin\source\repos\Design Patterns\AdapterDP\obj\Debug\net8.0\refint\AdapterDP.dll
+C:\Users\Admin\source\repos\Design Patterns\AdapterDP\obj\Debug\net8.0\AdapterDP.pdb
+C:\Users\Admin\source\repos\Design Patterns\AdapterDP\obj\Debug\net8.0\AdapterDP.genruntimeconfig.cache
+C:\Users\Admin\source\repos\Design Patterns\AdapterDP\obj\Debug\net8.0\ref\AdapterDP.dll

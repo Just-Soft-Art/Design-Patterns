@@ -1,0 +1,15 @@
+C:\Users\Admin\source\repos\Design Patterns\HotTaskDP\obj\Debug\net8.0\HotTaskDP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\Design Patterns\HotTaskDP\obj\Debug\net8.0\HotTaskDP.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\Design Patterns\HotTaskDP\obj\Debug\net8.0\HotTaskDP.AssemblyInfo.cs
+C:\Users\Admin\source\repos\Design Patterns\HotTaskDP\obj\Debug\net8.0\HotTaskDP.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Design Patterns\HotTaskDP\obj\Debug\net8.0\HotTaskDP.sourcelink.json
+C:\Users\Admin\source\repos\Design Patterns\HotTaskDP\bin\Debug\net8.0\HotTaskDP.exe
+C:\Users\Admin\source\repos\Design Patterns\HotTaskDP\bin\Debug\net8.0\HotTaskDP.deps.json
+C:\Users\Admin\source\repos\Design Patterns\HotTaskDP\bin\Debug\net8.0\HotTaskDP.runtimeconfig.json
+C:\Users\Admin\source\repos\Design Patterns\HotTaskDP\bin\Debug\net8.0\HotTaskDP.dll
+C:\Users\Admin\source\repos\Design Patterns\HotTaskDP\bin\Debug\net8.0\HotTaskDP.pdb
+C:\Users\Admin\source\repos\Design Patterns\HotTaskDP\obj\Debug\net8.0\HotTaskDP.dll
+C:\Users\Admin\source\repos\Design Patterns\HotTaskDP\obj\Debug\net8.0\refint\HotTaskDP.dll
+C:\Users\Admin\source\repos\Design Patterns\HotTaskDP\obj\Debug\net8.0\HotTaskDP.pdb
+C:\Users\Admin\source\repos\Design Patterns\HotTaskDP\obj\Debug\net8.0\HotTaskDP.genruntimeconfig.cache
+C:\Users\Admin\source\repos\Design Patterns\HotTaskDP\obj\Debug\net8.0\ref\HotTaskDP.dll

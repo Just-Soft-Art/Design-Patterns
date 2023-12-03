@@ -12,3 +12,4 @@ C:\Users\Admin\source\repos\Design Patterns\SingletonDP\obj\Debug\net8.0\refint\
 C:\Users\Admin\source\repos\Design Patterns\SingletonDP\obj\Debug\net8.0\SingletonDP.pdb
 C:\Users\Admin\source\repos\Design Patterns\SingletonDP\obj\Debug\net8.0\SingletonDP.genruntimeconfig.cache
 C:\Users\Admin\source\repos\Design Patterns\SingletonDP\obj\Debug\net8.0\ref\SingletonDP.dll
+C:\Users\Admin\source\repos\Design Patterns\SingletonDP\obj\Debug\net8.0\SingletonDP.sourcelink.json

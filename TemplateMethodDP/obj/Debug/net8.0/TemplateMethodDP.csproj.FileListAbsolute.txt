@@ -1,0 +1,15 @@
+C:\Users\Admin\source\repos\Design Patterns\TemplateMethodDP\bin\Debug\net8.0\TemplateMethodDP.exe
+C:\Users\Admin\source\repos\Design Patterns\TemplateMethodDP\bin\Debug\net8.0\TemplateMethodDP.deps.json
+C:\Users\Admin\source\repos\Design Patterns\TemplateMethodDP\bin\Debug\net8.0\TemplateMethodDP.runtimeconfig.json
+C:\Users\Admin\source\repos\Design Patterns\TemplateMethodDP\bin\Debug\net8.0\TemplateMethodDP.dll
+C:\Users\Admin\source\repos\Design Patterns\TemplateMethodDP\bin\Debug\net8.0\TemplateMethodDP.pdb
+C:\Users\Admin\source\repos\Design Patterns\TemplateMethodDP\obj\Debug\net8.0\TemplateMethodDP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\Design Patterns\TemplateMethodDP\obj\Debug\net8.0\TemplateMethodDP.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\Design Patterns\TemplateMethodDP\obj\Debug\net8.0\TemplateMethodDP.AssemblyInfo.cs
+C:\Users\Admin\source\repos\Design Patterns\TemplateMethodDP\obj\Debug\net8.0\TemplateMethodDP.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Design Patterns\TemplateMethodDP\obj\Debug\net8.0\TemplateMethodDP.sourcelink.json
+C:\Users\Admin\source\repos\Design Patterns\TemplateMethodDP\obj\Debug\net8.0\TemplateMethodDP.dll
+C:\Users\Admin\source\repos\Design Patterns\TemplateMethodDP\obj\Debug\net8.0\refint\TemplateMethodDP.dll
+C:\Users\Admin\source\repos\Design Patterns\TemplateMethodDP\obj\Debug\net8.0\TemplateMethodDP.pdb
+C:\Users\Admin\source\repos\Design Patterns\TemplateMethodDP\obj\Debug\net8.0\TemplateMethodDP.genruntimeconfig.cache
+C:\Users\Admin\source\repos\Design Patterns\TemplateMethodDP\obj\Debug\net8.0\ref\TemplateMethodDP.dll
