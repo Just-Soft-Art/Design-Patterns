@@ -21,7 +21,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TemplateMethodDP", "Templat
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DecoratorDP", "DecoratorDP\DecoratorDP.csproj", "{76A5F4DA-3CA3-44AC-A0A6-77E4248AD584}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HotTaskDP", "HotTaskDP\HotTaskDP.csproj", "{5622F5B2-2E1A-4DEC-B23B-CD3F0327CBDE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HotTaskDP", "HotTaskDP\HotTaskDP.csproj", "{5622F5B2-2E1A-4DEC-B23B-CD3F0327CBDE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ObserverDP", "ObserverDP\ObserverDP.csproj", "{48DB598B-6186-46AA-A24E-20A6AB0D5D78}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -69,6 +71,10 @@ Global
 		{5622F5B2-2E1A-4DEC-B23B-CD3F0327CBDE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5622F5B2-2E1A-4DEC-B23B-CD3F0327CBDE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5622F5B2-2E1A-4DEC-B23B-CD3F0327CBDE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{48DB598B-6186-46AA-A24E-20A6AB0D5D78}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{48DB598B-6186-46AA-A24E-20A6AB0D5D78}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{48DB598B-6186-46AA-A24E-20A6AB0D5D78}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{48DB598B-6186-46AA-A24E-20A6AB0D5D78}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
