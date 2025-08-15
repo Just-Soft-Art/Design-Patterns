@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DecoratorDP")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+708cf6293e7d1d8db21c1aa3cec83f2248c93408")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3f60a174c21bb177c470dda26fdda8a6b8ebb868")]
 [assembly: System.Reflection.AssemblyProductAttribute("DecoratorDP")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DecoratorDP")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

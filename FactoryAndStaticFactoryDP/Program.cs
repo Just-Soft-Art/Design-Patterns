@@ -92,6 +92,25 @@ namespace FactoryMethod
         }
     }
 
+    //public class MyService
+    //{
+    //    private MyService() { }
+
+    //    public static async Task<MyService> CreateAsync()
+    //    {
+    //        await Task.Delay(100); // Simulate async work
+    //        return new MyService();
+    //    }
+    //}
+
+    //static async Task Main()
+    //    {
+    //        var service = await MyService.CreateAsync();
+    //        Console.WriteLine("Service created!");
+    //    } // Uncomment this part to test the async factory method
+
+
+
     class Program
     {
         static void Main(string[] args)
