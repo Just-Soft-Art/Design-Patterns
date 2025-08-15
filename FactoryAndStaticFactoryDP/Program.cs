@@ -119,7 +119,7 @@ namespace FactoryMethod
             var secondEmployeeSkills = new[] { Skills.CSharp, Skills.CleanCode };
             var thirdEmployeeSkills = new[] { Skills.Selenium, Skills.Postman, Skills.BlazeMeter };
 
-            var employee = new EmployeeFactory().Hire(firstEmployeeRequiredSkills);
+            IEmployee? employee = new EmployeeFactory().Hire(firstEmployeeRequiredSkills);
             Console.WriteLine($"Hired employee is {employee}");
 
             var bankAccount = BankAccount.ForChildren();
@@ -128,4 +128,37 @@ namespace FactoryMethod
             Console.ReadKey();
         }
     }
+
+    interface INew
+    {
+        Task<string> GetAsync();
+    }
+    class Old
+    {
+        public Task<string> FetchAsync() => Task.FromResult("Old");
+    }
+    class Adapter : INew
+    {
+        private Old _old;
+
+        public Adapter(Old old)
+        {
+            _old = old;
+        }
+
+        public Task<string> GetAsync()
+        {
+            return _old.FetchAsync();
+        }
+    }
+
+    class P
+    {
+        static async Task Main()
+        {
+            string s = await new Adapter(new Old()).GetAsync();
+            System.Console.WriteLine(s);
+        }
+    }
+
 }

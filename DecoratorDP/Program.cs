@@ -8,13 +8,13 @@
         Console.WriteLine("Price: {0}", pizza1.GetCost());
 
         Pizza pizza2 = new ItalianPizza();
-        pizza2 = new CheesePizza(pizza2);// итальянская пиццы с сыром
+        pizza2 = new CheesePizza(pizza2);// итальянская пицца с сыром
         Console.WriteLine("Name: {0}", pizza2.Name);
         Console.WriteLine("Price: {0}", pizza2.GetCost());
 
         Pizza pizza3 = new BulgerianPizza();
         pizza3 = new TomatoPizza(pizza3);
-        pizza3 = new CheesePizza(pizza3);// болгарская пиццы с томатами и сыром
+        pizza3 = new CheesePizza(pizza3);// болгарская пицца с томатами и сыром
         Console.WriteLine("Name: {0}", pizza3.Name);
         Console.WriteLine("Price: {0}", pizza3.GetCost());
 

@@ -13,3 +13,18 @@ C:\Users\Admin\source\repos\Design Patterns\FactoryAndStaticFactoryDP\obj\Debug\
 C:\Users\Admin\source\repos\Design Patterns\FactoryAndStaticFactoryDP\obj\Debug\net8.0\FactoryAndStaticFactoryDP.genruntimeconfig.cache
 C:\Users\Admin\source\repos\Design Patterns\FactoryAndStaticFactoryDP\obj\Debug\net8.0\ref\FactoryAndStaticFactoryDP.dll
 C:\Users\Admin\source\repos\Design Patterns\FactoryAndStaticFactoryDP\obj\Debug\net8.0\FactoryAndStaticFactoryDP.sourcelink.json
+E:\Git\Design-Patterns\FactoryAndStaticFactoryDP\bin\Debug\net8.0\FactoryAndStaticFactoryDP.exe
+E:\Git\Design-Patterns\FactoryAndStaticFactoryDP\bin\Debug\net8.0\FactoryAndStaticFactoryDP.deps.json
+E:\Git\Design-Patterns\FactoryAndStaticFactoryDP\bin\Debug\net8.0\FactoryAndStaticFactoryDP.runtimeconfig.json
+E:\Git\Design-Patterns\FactoryAndStaticFactoryDP\bin\Debug\net8.0\FactoryAndStaticFactoryDP.dll
+E:\Git\Design-Patterns\FactoryAndStaticFactoryDP\bin\Debug\net8.0\FactoryAndStaticFactoryDP.pdb
+E:\Git\Design-Patterns\FactoryAndStaticFactoryDP\obj\Debug\net8.0\FactoryAndStaticFactoryDP.GeneratedMSBuildEditorConfig.editorconfig
+E:\Git\Design-Patterns\FactoryAndStaticFactoryDP\obj\Debug\net8.0\FactoryAndStaticFactoryDP.AssemblyInfoInputs.cache
+E:\Git\Design-Patterns\FactoryAndStaticFactoryDP\obj\Debug\net8.0\FactoryAndStaticFactoryDP.AssemblyInfo.cs
+E:\Git\Design-Patterns\FactoryAndStaticFactoryDP\obj\Debug\net8.0\FactoryAndStaticFactoryDP.csproj.CoreCompileInputs.cache
+E:\Git\Design-Patterns\FactoryAndStaticFactoryDP\obj\Debug\net8.0\FactoryAndStaticFactoryDP.sourcelink.json
+E:\Git\Design-Patterns\FactoryAndStaticFactoryDP\obj\Debug\net8.0\FactoryAndStaticFactoryDP.dll
+E:\Git\Design-Patterns\FactoryAndStaticFactoryDP\obj\Debug\net8.0\refint\FactoryAndStaticFactoryDP.dll
+E:\Git\Design-Patterns\FactoryAndStaticFactoryDP\obj\Debug\net8.0\FactoryAndStaticFactoryDP.pdb
+E:\Git\Design-Patterns\FactoryAndStaticFactoryDP\obj\Debug\net8.0\FactoryAndStaticFactoryDP.genruntimeconfig.cache
+E:\Git\Design-Patterns\FactoryAndStaticFactoryDP\obj\Debug\net8.0\ref\FactoryAndStaticFactoryDP.dll
